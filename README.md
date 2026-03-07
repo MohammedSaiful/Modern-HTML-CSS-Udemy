@@ -19,5 +19,5 @@
 | section-10.2    | [Live Demo](https://section-102-nesting.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/08-various-css-features/06-nesting) |
 | section-11    | [Live Demo](https://section-11-lumina-creative.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/011-lumina-creative) |
 | section-16    | [Live Demo](https://section-16-presentation-web.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/16-transitions-animations-js/10%20-presentation-website-1) |
-
+| Tutor Project   | [Live Demo](https://tutor-project-section-17and18.vercel.app/) | [Code](https://github.com/MohammedSaiful/Modern-HTML-CSS-Udemy/tree/main/17-tutor-project) |
 
